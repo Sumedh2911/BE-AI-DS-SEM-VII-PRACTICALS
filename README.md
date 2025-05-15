@@ -4,3 +4,11 @@ in this three subjects of practicals each subject content some different method 
 Machine Learning uses mostly Scikit-learn and other ploting method to plot the output.
 Data Modeling and Visualizalaation is operation that performs from loading the data make operation and visualiza using different ploting methods such as sns and matplotlib.
 Information Retrieval is uses Natural Language Toolkit, Numpy and Pandas to load and perform some other type of operations.
+
+
+---
+
+## 👨‍💻 Author
+
+**Sumedh Dhangar**  
+[LinkedIn](https://www.linkedin.com/in/sumedh-dhangar) | [GitHub](https://github.com/Sumedh2911)
